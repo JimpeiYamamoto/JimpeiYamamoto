@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @JimpeiYamamoto.
+- 💻 I’m student at 42 tokyo.
 - 👀 I’m interested in C, Python, AI, Swift, AWS.
 - 🌱 I’m currently learning C, AI.
 
