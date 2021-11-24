@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @JimpeiYamamoto.
-- 💻 I’m student at 42 tokyo.
-- 👀 I’m interested in C, Python, AI, Swift, AWS.
-- 🌱 I’m currently learning C, AI.
-
-<!---
-JimpeiYamamoto/JimpeiYamamoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 山本 迅平
+- 所属①：中央大学 理工学部 人間総合理工学科 水代謝システム研究室
+- 所属②：42tokyo 2021.4~
+#### プログラミング
+- C/C++
+- Swift
+- Python
+- Go
