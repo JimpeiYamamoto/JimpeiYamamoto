@@ -1,7 +1,7 @@
 # Jimpei Yamamoto
 ## Profile
 - Graduate Student at Chuo university
-- 42tokyo Cursus Level3
+- 42tokyo Cursus BH
 ## Languages
 - C/C++
 - Swift
